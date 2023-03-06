@@ -1,3 +1,5 @@
+<img src="./images/biohackathon.png" width="300" height="300">
+
 ## BH23 Schedule
 
 - 24th June, Sat
