@@ -4,17 +4,15 @@
 
 24th June - 1st July 2023 at [Olivean Shodoshima](https://olivean.com/), Shodoshima Island, Kagawa, Japan
 
-## Call for Participants
+## Details
 
-- TBA
+- [Call for participants](/call-for-participants)
+- [Projects](/projects)
+- [Schedule](/schedule)
 
 ## Goals
 
 DBCLS BioHackathon
-
-## Projects
-
-- TBA
 
 ## History of BioHackathon
 
