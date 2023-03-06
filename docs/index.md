@@ -1,4 +1,4 @@
-<img src="http://www.biohackathon.org/biohackathon.png" width="300" height="300">
+<img src="./images/biohackathon.png" width="300" height="300">
 
 # DBCLS BioHackathon 2023
 
