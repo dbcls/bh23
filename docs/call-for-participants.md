@@ -15,7 +15,7 @@ The selected participants will be offered each of the following: (a) full financ
 - [R1] Multi-omics analysis on human genotype to phenotype that includes genomic, transcriptomic, epigenomic, proteomic, protein structure, and biochemical data.
 - [R2] Automated data analysis of microorganisms including phylogenetic composition, gene annotation, pathway, and growth condition.
 - [R3] Data-driven interdisciplinary studies in public health, environmental, agriculture, food, energy, and other fields.
-- [R4] Improving knowledge discovery and biological analysis of knowledge graphs and literature.
+- [R4] Facilitating knowledge discovery and biological analysis of knowledge graphs and literature.
 
 ### Technical aspects
 
