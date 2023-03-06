@@ -6,9 +6,9 @@
 
 ## Details
 
-- [Call for participants](/docs/call-for-participants)
-- [Projects](/docs/projects)
-- [Schedule](/docs/schedule)
+- [Call for participants](/call-for-participants)
+- [Projects](/projects)
+- [Schedule](/schedule)
 
 ## Goals
 
