@@ -8,16 +8,20 @@
 - [Projects](/projects)
 - [Schedule](/schedule)
 
-<!-- ## Goals
+<!--
+## Goals
 
-DBCLS BioHackathon 
+DBCLS BioHackathon
 
 ## History of BioHackathon
 
 A long time ago in a galaxy far, far away..
  -->
 
-## Link to sister BioHackathons
+## Links
 
+- [DBCLS](https://dbcls.rois.ac.jp/)
+- [Past BioHackathons](http://biohackathon.org/)
 - [BioHackathon Europe](https://biohackathon-europe.org/)
 - [BioHackathon-MENA](https://github.com/biohackathon-mena)
+- [BioHackathons in the US](https://biohackathons.github.io/)
