@@ -4,11 +4,11 @@
 
 ## How to participate to BH23
 
-In our previous BioHackathons, we have called for proposals for hacking topics with fewer limitations, which have worked well so far. However, because BioHackathon in Japan is an event hosted by the Database Center for Life Science (DBCLS), we prioritize research topics that focus on the integrated use of databases in life sciences. Therefore, we start a new participation scheme to accelerate collaboration among the groups in this year's BioHackathon.
+In our previous BioHackathons, we have called for proposals for hacking topics with few limitations, which have worked well so far. However, because BioHackathon in Japan is an event hosted by the Database Center for Life Science (DBCLS), we prioritize research topics that focus on the integrated use of databases in life sciences. Therefore, we start a new participation scheme to accelerate collaboration among the groups in this year's BioHackathon.
 
 To make the event more collaborative for all participants within a short time period, we will limit the number of hacking topics. All those who aim to join the event will be asked to select "Research interests" and "Technical aspects" from the lists to declare how they can contribute and collaborate with other participants.
 
-The selected participants will be offered each of the following: (a) full financial support, including travel and accommodation; (b) partial financial support, accommodation at the hackathon venue; and (c) invitation to participate (no financial support). Every participant, regardless of their role or type of participation, is required to submit a proposal. Only those who are selected by the proposal or directly invited by the organizers are allowed to participate in the event.
+The selected participants will be offered any of the following: (a) full financial support, including travel and accommodation; (b) partial financial support, accommodation at the hackathon venue; and (c) invitation to participate (no financial support). Every participant, regardless of their role or type of participation, is required to submit a proposal. Only those who are selected by the proposal or directly invited by the organizers are allowed to participate in the event.
 
 ### BH23 Research interest
 
