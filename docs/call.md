@@ -30,13 +30,14 @@ Submit your abstract from the BH23 [call for participation](https://docs.google.
 
 ## Important dates
 
-- Submission opens: 14th March 2023
+- Submission opens: 14th March, 2023
 - Submission deadline:
-  - w/ Travel support or who requires visa support: 31st March 2023
-  - w/o travel support: 30th April 2023
-- Selected proposals announcement: TBA
-- BH23: 25th June - 1st July
+  - w/ Travel support or who requires visa support: 31st March, 2023
+  - w/o travel support: 30th April, 2023
+- Selected proposals announcement: Early May, TBA
+- BH23: 25th June - 1st July, 2023
 
 ## FAQ
 
 - You ask. We answer.
+
