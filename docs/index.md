@@ -5,8 +5,8 @@
 25th June - 1st July 2023 at the [Kagawa International Conference Hall](https://goo.gl/maps/FsFJxqnD2y2ujxPw5) in Takamatsu and [Olivean Shodoshima](https://olivean.com/) in Shodoshima island, Kagawa, Japan
 
 - [Call for participation](/call)
-- [Projects](https://github.com/dbcls/bh23/wiki/Projects)
 - [Schedule](https://github.com/dbcls/bh23/wiki/Schedule)
+- [Projects](https://github.com/dbcls/bh23/wiki/Projects)
 
 <!--
 ## Goals
