@@ -5,7 +5,7 @@
 - 24th June, Sat
   - Arrival in Takamatsu, Kagawa
 - 25th June, Sun
-  - Kick-off meeting in KAGAWA INTERNATIONAL CONFERENCE HALL
+  - Warm-up session at the [Kagawa International Conference Hall](https://goo.gl/maps/FsFJxqnD2y2ujxPw5)
   - Move to the Hackathon venue by ferry
 - 26th June, Mon
   - Hacking day

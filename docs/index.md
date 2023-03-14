@@ -2,7 +2,7 @@
 
 # DBCLS BioHackathon 2023
 
-24th June - 1st July 2023 at [Olivean Shodoshima](https://olivean.com/), Shodoshima Island, Kagawa, Japan
+25th June - 1st July 2023 at the [Kagawa International Conference Hall](https://goo.gl/maps/FsFJxqnD2y2ujxPw5) in Takamatsu and [Olivean Shodoshima](https://olivean.com/) in Shodoshima island, Kagawa, Japan
 
 - [Call for participation](/call)
 - [Projects](/projects)
@@ -16,7 +16,7 @@ DBCLS BioHackathon
 ## History of BioHackathon
 
 A long time ago in a galaxy far, far away..
- -->
+-->
 
 ## Links
 
