@@ -1,10 +1,10 @@
-<img src="./images/biohackathon.png" width="300" height="300">
+<img src="./images/bh23-logo.png" width="200">
 
 # DBCLS BioHackathon 2023
 
 24th June - 1st July 2023 at [Olivean Shodoshima](https://olivean.com/), Shodoshima Island, Kagawa, Japan
 
-- [Call for participants](/call-for-participants)
+- [Call for participation](/call)
 - [Projects](/projects)
 - [Schedule](/schedule)
 
