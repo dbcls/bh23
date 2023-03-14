@@ -38,3 +38,4 @@ See [biohackathon.org](http://biohackathon.org/).
 - [BioHackathon Europe](https://biohackathon-europe.org/)
 - [BioHackathon-MENA](https://github.com/biohackathon-mena)
 - [BioHackathons in the US](https://biohackathons.github.io/)
+- [BioHackrXiv preprints](https://biohackrxiv.org/)
