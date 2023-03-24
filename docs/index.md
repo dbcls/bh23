@@ -39,3 +39,9 @@ See [biohackathon.org](http://biohackathon.org/).
 - [BioHackathon-MENA](https://github.com/biohackathon-mena)
 - [BioHackathons in the US](https://biohackathons.github.io/)
 - [BioHackrXiv preprints](https://biohackrxiv.org/)
+
+## Funding
+
+* Database Center for Life Science (DBCLS)
+* Japan Science and Technology Agency (JST) Department of NBDC Program
+
