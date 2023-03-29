@@ -8,7 +8,7 @@ Accelerate data science through the integrated use of databases in life sciences
 
 Our focus on standardization and interoperability of life sciences and biomedical databases (knowledge graphs) remains unchanged. However, we further promote the integrated use of databases and literature, which will enable new discoveries through the development of methods and applications in data science.
 
-To achieve this goal, DBCLS restart the BioHackathon in a slightly modified manner, after the suspention of the BioHackathon series in Japan due to the COVID-19 pandemic. We introduce a new scheme to make the event more collaborative. See the [call for participation](/call) for more details.
+To achieve this goal, DBCLS restart the BioHackathon in a slightly modified manner, after the suspension of the BioHackathon series in Japan due to the COVID-19 pandemic. We introduce a new scheme to make the event more collaborative. See the [call for participation](/call) for more details.
 
 ## Dates and venue
 
