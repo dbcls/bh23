@@ -22,6 +22,7 @@ To achieve this goal, DBCLS restart the BioHackathon in a slightly modified mann
 - [Call for participation](/call)
 - [Schedule](https://github.com/dbcls/bh23/wiki/Schedule)
 - [Projects](https://github.com/dbcls/bh23/wiki/Projects)
+- [Participants](https://github.com/dbcls/bh23/wiki/Participants)
 
 <!--
 ## History of BioHackathon
