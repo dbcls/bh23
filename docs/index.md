@@ -45,4 +45,7 @@ See [biohackathon.org](http://biohackathon.org/).
 
 * Database Center for Life Science (DBCLS)
 * Japan Science and Technology Agency (JST) Department of NBDC Program
+* Takamatsu Convention & Visitors Bureau
+
+  
 
