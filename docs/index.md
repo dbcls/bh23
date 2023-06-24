@@ -14,7 +14,7 @@ To achieve this goal, DBCLS restart the BioHackathon in a slightly modified mann
 
 - Dates: 25th June (Sun) - 1st July (Sat), 2023
 - Venue:
-  - [Kagawa International Conference Hall] 6F (https://www.symboltower.com/en/) in Takamatsu, Kagawa, Japan
+  - [Kagawa International Conference Hall](https://www.symboltower.com/en/) 6F in Takamatsu, Kagawa, Japan
   - [Olivean Shodoshima](https://olivean.com/en/) on Shodoshima Island, Kagawa, Japan
 
 ## Participation
